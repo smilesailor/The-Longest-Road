@@ -1,5 +1,5 @@
 # The-Longest-Road
-Longest path algorithm
+Longest path algorithm.
 Given a weighted directed acyclic graph  G=(V, E),
 where each edge is assigned an weight,
 find a longest path in graph G.
